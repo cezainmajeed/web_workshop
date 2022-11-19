@@ -1,0 +1,15 @@
+/*
+intro to dom
+properties and methods
+firstChildElement lastChildElement
+getElementsByTagName
+getElementById
+getElementsByClassName
+querySelector
+querySelectorAll
+style.property
+attributes setAttribute
+innerHTML
+textContent
+Dice Game
+*/
